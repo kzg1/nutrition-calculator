@@ -7,7 +7,7 @@ Since all foods generally contain all 3 macronutrients, we have to take into acc
 To solve this problem, I implemented the Cramer's rule (https://en.wikipedia.org/wiki/Cramer%27s_rule).
 Using this formula we can easily calculate the values.
 
-Currently you can choose up to 2 foods for each macronutrients, and also you can set 
+Currently you can choose up to 2 foods for each macronutrients, and also you can set how much do you want from each food, using percentages.
 
 Requirements for the program:
 <ul>
