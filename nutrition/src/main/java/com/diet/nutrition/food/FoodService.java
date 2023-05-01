@@ -78,18 +78,6 @@ public class FoodService {
 		return new Food(food1.getName() + "," + food2.getName(), prot, ch, fat);
 	}
 
-	public static void main(String[] args) {
 
-		Food food1 = new Food("teszt1", 10, 10, 10);
-		Food food2 = new Food("teszt2", 5, 5, 5);
-		Food food3 = new Food("teszt3", 20, 20, 20);
-		Food food4 = new Food("teszt4", 1, 1, 1);
-
-		FoodService f = new FoodService(null);
-
-		System.out.println(f.combineFoods(food1, food2, 20));
-		System.out.println(f.combineFoods(food3, food4, 20));
-
-	}
 
 }
