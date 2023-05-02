@@ -16,3 +16,7 @@ Requirements for the program:
 <li>Lombok</li></li>
 <li>foods.csv which contains the input values for your foods. (already attached an example with a few foods. formula: name,protein,ch,fat)</li>
 </ul>
+<hr>
+Example, and check in excel:
+
+<img src="https://i.imgur.com/wO9LPeP.png">
