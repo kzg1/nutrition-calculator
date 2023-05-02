@@ -1,6 +1,6 @@
 This application made for calculating foods macronutrients.
 
-Basic concept: If you're on a strict diet with pre-defined macronutrient values and want to prepare your meals for the day, you can set your protein, carbohydrate and fat sources and the software will calculate how much of each to prepare.
+Basic concept: If you're on a strict diet with pre-defined macronutrient values and want to prepare your meals for the whole day, you can set your protein, carbohydrate and fat sources and the software will calculate how much of each to prepare.
 
 Since all foods generally contain all 3 macronutrients, we have to take into account the input values of each food for each macronutrient.
 
